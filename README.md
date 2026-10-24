@@ -79,42 +79,27 @@ I enjoy turning applications into complete, deployable systems — from backend 
 
 ## ⭐ Featured Projects
 
-### 📊 [Expense Tracker](https://github.com/shashank4066/expense-tracker)
-A full-stack expense tracking project with separate frontend/backend components and containerization support.
+### [IncidentIQ — Cloud Incident Management & AI RCA](https://github.com/shashank4066/IncidentIQ)
+A Java 21, Spring Boot, and React reference platform for alert ingestion, incident lifecycles, and evidence-based AI investigation.
 
-### 🎬 [VidHaul](https://github.com/shashank4066/vidhaul)
-A web application project packaged with Docker and deployment configuration.
+- **Engineering depth:** persistent event-ID idempotency, guarded state transitions, transactional outbox, Kafka worker, bounded retries, and evidence validation.
+- **Delivery & observability:** PostgreSQL, Redis, OpenTelemetry, Prometheus, Grafana, Docker, Kubernetes, and Azure/AKS infrastructure configuration.
+- **Quality:** documented Java/frontend checks, Compose integration smoke tests, and Playwright scenarios. AI analysis remains advisory.
 
-### 📥 [YouTube Downloader](https://github.com/shashank4066/youtube-downloader)
-A utility for downloading videos in multiple qualities and audio formats.
+### [FrameForge — Supervised AI Video Workflow](https://github.com/shashank4066/frameforge-agentic-video)
+A Python/FastAPI workflow taking a creative brief through scripting, storyboards, narration, subtitles, and FFmpeg MP4 composition.
 
----
+- **Engineering depth:** persisted checkpoints, job leases, retries, restart recovery, artifact provenance, and human approval gates.
+- **Applied AI:** optional Gemini/OpenAI integrations, with distinct free, demo, and live provider modes.
+- **Quality:** automated Python tests and CI with mocked provider requests.
 
-## 🧭 What I'm Building Next
+### [VidHaul — Full-Stack Media Processing](https://github.com/shashank4066/vidhaul)
+A Node.js/Express media application with a JavaScript interface, integrating yt-dlp and FFmpeg.
 
-I'm working toward a portfolio that demonstrates the complete software delivery lifecycle:
+- **Backend work:** metadata and playlist APIs, quality selection, video/audio processing, and HTTP file streaming.
+- **Delivery work:** process timeouts, stream-error handling, temporary-file cleanup, Docker packaging, and Render deployment configuration.
 
-```text
-Application Development
-        ↓
-      Docker
-        ↓
-   CI/CD Pipeline
-        ↓
-       AWS
-        ↓
-     Terraform
-        ↓
-   Kubernetes
-        ↓
-Monitoring & Logging
-```
-
-Planned hands-on projects include:
-
-- **Cloud-Native Spring Boot Application** — Java + Spring Boot + Docker + AWS + CI/CD
-- **AWS Infrastructure with Terraform** — VPC + compute + load balancing + database + monitoring
-- **Kubernetes DevOps Project** — container orchestration + CI/CD + observability
+**[Explore the portfolio and engineering case studies → shashankdev.tech](https://shashankdev.tech/#work)**
 
 ---
 
