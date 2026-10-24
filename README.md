@@ -15,6 +15,20 @@ I enjoy turning applications into complete, deployable systems — from backend 
 
 ---
 
+## 🏅 Microsoft Certifications
+
+![AI-200](https://img.shields.io/badge/Microsoft_Certified-AI--200-0078D4?style=for-the-badge)
+![AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-0078D4?style=for-the-badge)
+
+- **Microsoft Certified: Azure AI Cloud Developer Associate — AI-200**  
+  Azure AI solutions, backend services, and the cloud development lifecycle. [Certification details](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/).
+- **Microsoft Certified: Azure Fundamentals — AZ-900**  
+  Cloud concepts, Azure services, management, and governance. [Certification details](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/).
+
+*Microsoft links describe the certifications. Personal credential verification is available on request.*
+
+---
+
 ## 🚀 What I'm Focused On
 
 - ☁️ Building and deploying applications on **AWS**
