@@ -2,6 +2,11 @@
 
 ### Software Engineer | Java & Spring Boot | Cloud & DevOps
 
+[![Visit my portfolio](https://img.shields.io/badge/Visit_my_portfolio-shashankdev.tech-EFA47D?style=for-the-badge&logo=googlechrome&logoColor=101211)](https://shashankdev.tech/)
+
+**[Explore my portfolio → shashankdev.tech](https://shashankdev.tech/)**  
+Projects, engineering case studies, professional experience, technical skills, Microsoft certifications, and my AI-assisted development workflow.
+
 I'm a software engineer with **2+ years of professional experience** working with enterprise applications and technologies including **Java 17, Spring Boot, REST APIs, microservices, and Azure**.
 
 I'm currently strengthening my skills in **Cloud & DevOps**, with a focus on **AWS, Docker, CI/CD, Infrastructure as Code, Kubernetes, and Linux**.
